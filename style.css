@@ -127,7 +127,7 @@
     align-items: center;
 }
 
-.menu__item>* {
+.menu__item > * {
     vertical-align: middle;
 }
 
